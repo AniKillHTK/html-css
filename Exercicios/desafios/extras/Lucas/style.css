@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body{
+    background-image: linear-gradient(to right, black 15%, rgb(75, 7, 75), rgb(35, 35, 134));
+}
+main{
+    background-color: aliceblue;
+    width: 500px;
+    border-radius: 3%;
+    box-shadow: 3px 3px 15px black;
+    padding: ;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center
+}
