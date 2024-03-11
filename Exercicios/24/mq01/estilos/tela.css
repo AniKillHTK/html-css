@@ -16,6 +16,7 @@ header > h1{
 }
 li{
     display: inline-block;
+    color: white;
     background-color: rgb(48, 48, 48);
     padding: 10px;
 }
